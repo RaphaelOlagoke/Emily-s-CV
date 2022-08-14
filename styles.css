@@ -1,4 +1,8 @@
 /*  //////////////////////////////////////////// HEADER BEGINS ////////////////////////////////////// */
+body{
+    overflow-y: scroll;
+}
+
 header{
     /* background-color: hsl(24, 100%, 88%); */
     background-color: hsl(270, 36%, 96%);
