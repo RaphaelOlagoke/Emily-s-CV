@@ -1,6 +1,8 @@
 /*  //////////////////////////////////////////// HEADER BEGINS ////////////////////////////////////// */
 body{
     overflow-y: scroll;
+      height: auto;
+      min-height: 100vh;
 }
 
 header{
